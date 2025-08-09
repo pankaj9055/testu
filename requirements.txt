@@ -2,7 +2,6 @@ eel>=0.18.2
 opencv-python>=4.5.0
 pyttsx3>=2.90
 SpeechRecognition>=3.10.0
-pyaudio>=0.2.11
 requests>=2.25.1
 wikipedia>=1.4.0
 pyjokes>=0.6.0
